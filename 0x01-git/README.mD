@@ -1,1 +1,0 @@
-Seconf readme
